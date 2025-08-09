@@ -15,7 +15,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
-    "@types/node": "^22.9.0",
+    "@types/node": "^24.2.1",
     "drizzle-kit": "^0.28.1",
     "globals": "^15.12.0",
     "tsx": "^4.19.2",
@@ -28,6 +28,7 @@
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.2",
     "express": "^4.21.1",
+    "undici-types": "^7.13.0",
     "uuid": "^11.0.3"
   },
   "prettier": {
