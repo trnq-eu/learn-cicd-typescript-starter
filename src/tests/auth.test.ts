@@ -2,7 +2,7 @@ import { describe, expect, test } from "vitest";
 import { getAPIKey } from "../api/auth";
 
 interface MockHeaders {
-  [key: string]: string | undefined; 
+  [key: string]: string | undefined;
   authorization?: string;
 }
 
